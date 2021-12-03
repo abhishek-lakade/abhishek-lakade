@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me 
 LinkedIn -> www.linkedin.com/in/abhisheklakade
+Email Id -> writetoabhisheklakade@gmail.com
 
 <!---
 abhishek-lakade/abhishek-lakade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
