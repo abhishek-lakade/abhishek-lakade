@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-<h1 align="center">Hi 👋, I'm Abhishek Lakade</h1>
+<h1 align="center">Hi , I'm Abhishek Lakade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👯 I’m looking to collaborate on **Front-end projects.**
