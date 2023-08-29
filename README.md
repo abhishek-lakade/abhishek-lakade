@@ -1,5 +1,4 @@
 ###
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <h1 align="center">Hi , I'm Abhishek Lakade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
