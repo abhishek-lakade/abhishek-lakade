@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhishek Lakade</h1>
 <h3 align="center">A driven software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-lakade&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-lakade" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-lakade" alt="abhishek-lakade" /></a> </p>
 
