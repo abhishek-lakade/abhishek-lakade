@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Abhishek Lakade 🚀</h1>
 <h3 align="center">Revenue Architect & Marketing Strategist (Ex-Software Developer)</h3>
 
-<p align="center"> 
-  <a href="https://x.com/AbhishekGrowth" target="blank">
-    <img src="https://img.shields.io/twitter/follow/AbhishekGrowth?logo=twitter&style=for-the-badge" alt="AbhishekGrowth" />
-  </a> 
-</p>
+
 
 - 🌱 **Currently Building:** High-intent lead generation systems for Dental Clinics (SEO + Ads + CRM Automation).
 - 🛠️ **The Background:** Former Software Developer, now applying engineering logic to Marketing ROI.
