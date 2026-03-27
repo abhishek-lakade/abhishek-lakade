@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhishek Lakade</h1>
-<h3 align="center">A driven software developer from India</h3>
+<h3 align="center">Now Semi-Retired as a software developer.</h3>
 
 
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/lakadeabhishek" target="blank"><img src="https://img.shields.io/twitter/follow/lakadeabhishek?logo=twitter&style=for-the-badge" alt="lakadeabhishek" /></a> </p>
 
-- 🌱 I’m currently learning **building softwares**
+- 🌱 I’m currently **building softwares** with AI and humans.
 
-- 📫 How to reach me **abhisheklakade44@gmail.com**
+- 📫 How to reach me **abhisheklakade44@gmail.com** or just sent a message on twitter/x.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
