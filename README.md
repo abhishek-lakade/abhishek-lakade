@@ -10,7 +10,7 @@
 
 ### My Growth Stack:
 - **Marketing:** Google Ads, Local SEO, CRM Automation (GoHighLevel/Zapier), Intent-Based Copywriting.
-- **Technical:** AI-Agents, Web Development, Python, GA4/GTM (Data Attribution).
+- **Technical:** AI-Agents + Workflows, Web Development, Python, GA4/GTM (Data Attribution).
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
