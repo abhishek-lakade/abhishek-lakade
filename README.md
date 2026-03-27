@@ -3,9 +3,9 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-lakade" alt="abhishek-lakade" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lakadeabhishek" target="blank"><img src="https://img.shields.io/twitter/follow/lakadeabhishek?logo=twitter&style=for-the-badge" alt="lakadeabhishek" /></a> </p>
+
+<p align="left"> <a href="https://x.com/AbhishekGrowth" target="blank"><img src="https://img.shields.io/twitter/follow/lakadeabhishek?logo=twitter&style=for-the-badge" alt="lakadeabhishek" /></a> </p>
 
 - 🌱 I’m currently **building softwares** with AI and humans.
 
