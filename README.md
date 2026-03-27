@@ -3,7 +3,7 @@
 
 
 
-- 🌱 **Currently Building:** High-intent lead generation systems for Dental Clinics (SEO + Ads + CRM Automation).
+- 🌱 **Currently Building:** High-intent lead generation systems for local businesses (SEO + Ads + CRM Automation).
 - 🛠️ **The Background:** Former Software Developer, now applying engineering logic to Marketing ROI.
 - 💡 **Focus:** Mastering the "Core Four": Intent Engineering, Direct Response Copy, Analytics, and Automation.
 - 📫 **Reach Me:** abhisheklakade44@gmail.com or DM on Twitter/X.
